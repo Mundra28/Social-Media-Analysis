@@ -1,5 +1,12 @@
 # Social-Media-Analysis
-social_media_analysis About Project: Project is based on web scraping and sentimental analysis. Primarily I used two websites:  Twitter Tripadvisor Important files and their functions:
+social_media_analysis About Project: Project is based on web scraping and sentimental analysis.
+
+Primarily I used two websites: 
+
+1)Twitter 
+2)Tripadvisor
+
+Important files and their functions:
 
 1)tweety.py: This file is used for extracting reviews from twitter with the help of twitter API
 
