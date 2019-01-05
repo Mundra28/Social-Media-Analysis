@@ -7,7 +7,9 @@ social_media_analysis About Project: Project is based on web scraping and sentim
 
 3)trip_reviews.ipynb: This file is for sentimental analysis based on hotel reviews which I scraped from tripadvisor. 
 
-4)trip.py: I used this file for scraping reviews from tripadvisor. 5)csv files: All csv files contains reviews/tweets which I extracted from both websites. 
+4)trip.py: I used this file for scraping reviews from tripadvisor. 
+
+5)csv files: All csv files contains reviews/tweets which I extracted from both websites. 
 
 Results: Results are displayed in the form of pie charts and bar graphs. No. of positive tweets are significantly higher than no. of positive reviews. 
 
